@@ -20,8 +20,8 @@ This is completely open source. Feel free to download and use in commercial appl
 Thanks
 
 Sheo Narayan
-The Foudner
 
+The Foudner -
 http://www.dotnetfunda.com
 http://www.itfunda.com
 http://www.kidsfunda.com
