@@ -23,7 +23,5 @@ Sheo Narayan
 
 The Foudner -
 http://www.dotnetfunda.com
+http://www.techfunda.com
 http://www.itfunda.com
-http://www.kidsfunda.com
-http://www.fundooVideo.com
-http://www.farmingfunda.com
