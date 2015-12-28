@@ -22,6 +22,6 @@ Thanks
 Sheo Narayan
 
 The Foudner -
-http://www.dotnetfunda.com
-http://www.techfunda.com
+http://www.dotnetfunda.com ,
+http://www.techfunda.com ,
 http://www.itfunda.com
